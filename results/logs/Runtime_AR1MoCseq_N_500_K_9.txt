@@ -1,0 +1,5 @@
+AR1MoCseq;N_500;K_9;pair_0;HT_runtime_2024-11-25 14:06:17.137844;cfar_runtime_0;Threshold_op_0
+AR1MoCseq;N_500;K_9;pair_0;HT_runtime_2024-11-25 14:06:17.137844;cfar_runtime_0;Threshold_op_0
+AR1MoCseq;N_500;K_9;pair_1;HT_runtime_2024-11-25 14:06:33.720196;cfar_runtime_0;Threshold_op_0
+AR1MoCseq;N_500;K_9;pair_2;HT_runtime_2024-11-25 14:06:50.603599;cfar_runtime_0;Threshold_op_0
+AR1MoCseq;N_500;K_9;pair_3;HT_runtime_2024-11-25 14:07:06.936977;cfar_runtime_0;Threshold_op_0
